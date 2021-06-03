@@ -13,11 +13,12 @@ that has R,G,B and W levels for Background horizon, background sky, foreground s
 Usage:
 
 Set the digital outputs to select the desired bank:
-    D C B A
-    X 0 1 1	Bank A
-    X 0 0 1	Bank B
-    X 1 0 0	Bank C
-    X 0 0 0	Bank D
+
+    D C B A  
+    X 0 1 1	Bank A  
+    X 0 0 1	Bank B  
+    X 1 0 0	Bank C  
+    X 0 0 0	Bank D    
 
 (output "D" controls a diagnostic LED on the board)
 
